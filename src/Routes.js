@@ -17,7 +17,7 @@ const ProjectRoutes = () => {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/" element={<MainDashboard />} />
         <Route path="*" element={<NotFound />} />
         <Route path="/maindashboard" element={<MainDashboard />} />
         <Route path="/transaction" element={<Transaction />} />

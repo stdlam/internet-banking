@@ -180,7 +180,7 @@ const LoanPage = () => {
             />
           </Row>
           <Column className="items-center justify-start lg:mt-[22px] xl:mt-[27px] 2xl:mt-[31px] 3xl:mt-[37px] w-[93%]">
-            <List
+            {/* <List
               className="lg:gap-[21px] xl:gap-[26px] 2xl:gap-[30px] 3xl:gap-[36px] grid grid-cols-4 min-h-[auto] w-[100%]"
               orientation="horizontal"
             >
@@ -668,7 +668,7 @@ const LoanPage = () => {
                   </Text>
                 </Row>
               </Column>
-            </Column>
+            </Column> */}
           </Column>
         </Column>
       </Row>

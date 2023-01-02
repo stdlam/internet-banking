@@ -13,6 +13,8 @@ import { Button } from "./Button";
 import { Slider } from "./Slider";
 import { SelectBox } from "./SelectBox";
 import { Switch } from "./Switch";
+import Menu from "./Menu";
+import Sidebar from "./Sidebar/Sidebar";
 export {
   Column,
   Datepicker,
@@ -29,4 +31,6 @@ export {
   Slider,
   SelectBox,
   Switch,
+  Menu,
+  Sidebar,
 };

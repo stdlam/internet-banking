@@ -5,7 +5,7 @@ import { CloseSVG } from "../../assets/images/index.js";
 
 const AccountsPage = () => {
   const [inputvalue, setInputvalue] = React.useState("");
-
+  
   return (
     <>
       <Row className="bg-gray_100 font-inter items-center mx-[auto] w-[100%]">
